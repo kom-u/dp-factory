@@ -1,0 +1,5 @@
+#include "Shape/Shape.hpp"
+#include "Shape/ShapeType.hpp"
+#include "Shape/ShapeFactory/ShapeFactory.hpp"
+#include "Shape/Circle/Circle.hpp"
+#include "Shape/Square/Square.hpp"
